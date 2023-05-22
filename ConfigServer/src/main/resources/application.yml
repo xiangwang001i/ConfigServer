@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: config-verver
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/xiangwang001i/
+          search-paths: config-repos
+          username: xiangwang001i
+          password: XiangWang945.
+      label: master
+server:
+  port: 8093
