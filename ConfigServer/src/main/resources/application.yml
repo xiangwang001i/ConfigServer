@@ -5,10 +5,10 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/xiangwang001i/
+          uri: https://github.com/xiangwang001i/ConfigServer.git
           search-paths: config-repos
-          username: xiangwang001i
+          username: 1015253657@qq.com
           password: XiangWang945.
-      label: master
+      label: main
 server:
   port: 8093
