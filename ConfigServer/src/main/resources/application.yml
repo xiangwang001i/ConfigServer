@@ -11,4 +11,4 @@ spring:
           password: XiangWang945.
       label: main
 server:
-  port: 8094
+  port: 8093
